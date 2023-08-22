@@ -1,4 +1,4 @@
-I'm a FullStack Developer.🇮🇳❤
+I'm a FullStack Developer.❤
 I m known as Dr.Project😄
 
 ⚡ I'm curently Blockchain Developer at Crypto Exchange Company
