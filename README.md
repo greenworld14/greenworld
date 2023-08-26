@@ -1,6 +1,5 @@
-I'm a FullStack Developer.❤
+I'm a FullStack && BlockChain Developer.❤
 I m known as Dr.Project😄
-
 ⚡ I'm curently Blockchain Developer at Crypto Exchange Company
 🔭 I’m currently working on Blockchain and Web3 Developement
 🌱 I’m currently learning Blockchain NFT and Node.js
