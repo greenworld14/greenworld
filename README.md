@@ -1,10 +1,10 @@
-<h4>I'm a FullStack && BlockChain Developer.❤</h4>
+<h2>I'm a FullStack && BlockChain Developer.❤</h2>
 
-I'm curently Blockchain Developer at Crypto Exchange Company.I’m currently working on Blockchain and Web3 Developement
+<strong>I'm curently Blockchain Developer at Crypto Exchange Company.I’m currently working on Blockchain and Web3 Developement
 I’m currently learning Blockchain NFT and Node.js.I’m looking to collaborate on Different kinds of Software Projects
 Ask me about Help in BlockChain Projects, Programming and Web application development.
 I have creative, graphically inclined, internet-and tech-savvy, and have excellent attention to detail.
-🌱 Ask Freely!
+🌱 Ask Freely!</strong>
 
 ⏰Work Time⏰
 over 7 hours / 1 day
